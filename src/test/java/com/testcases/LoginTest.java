@@ -44,9 +44,8 @@ public class LoginTest extends Base {
 		driver.findElement(By.xpath("//input[@value='Login']")).click();
 	
 		Assert.assertTrue(driver.findElement(By.linkText("Edit your account information")).isDisplayed(),"Edit Your Account Information option is not displayed");
-		
-	
-	
+		System.out.println("post");	
+		System.out.println("post");	
 	}
 	
 	@DataProvider
