@@ -46,6 +46,18 @@ public class LoginTest extends Base {
 		Assert.assertTrue(driver.findElement(By.linkText("Edit your account information")).isDisplayed(),"Edit Your Account Information option is not displayed");
 		System.out.println("post");	
 		System.out.println("post");	
+		
+		//ssssdd
+		///dsddddd
+		System.out.println("post5");	
+		System.out.println("post44");	
+		System.out.println("pos444t");	
+		System.out.println("pos44t");
+		System.out.println("rest assured playwriht");
+		System.out.println(" playwriht");
+		
+		System.out.println("aws assured playwriht");
+		
 	}
 	
 	@DataProvider
